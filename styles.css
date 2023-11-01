@@ -1,0 +1,73 @@
+.container {
+    margin: 0px 166px;
+}
+
+.header-logo {
+    width: 100px;
+}
+
+body {
+    background:linear-gradient(lightblue, white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+.cart {
+    width: 100px;
+    padding-top: 0px;
+}
+
+.phone {
+    width: 100px;
+}
+
+.header-line {
+    padding-top:50px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    color:black;
+    text-decoration: none;
+    font-weight: 700;
+    margin-right: 25px;
+}
+
+.cart {
+    position: relative;
+    border-right: 1px solid black;
+    padding-right: 10px;
+    height: 50px;
+}
+
+.cart-img {
+    position: absolute;
+    top: 1px;
+    right: 7px;
+}
+
+.btn {
+    font-weight: 700; 
+}
+
+.number {
+    font-weight: 700;
+}
+
+.phone-text {
+    font-weight: 700;
+}
+
+.phone-holder {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    background-color:rgb(241, 222, 186);
+    color: black;
+    font-size: 17px;
+}
