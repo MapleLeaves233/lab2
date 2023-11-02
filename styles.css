@@ -95,3 +95,8 @@ body {
     position: absolute;
     right: 20px; top: 545px;
 }
+
+.button{
+    text-decoration: none;
+    color:black;
+}
