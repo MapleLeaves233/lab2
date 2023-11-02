@@ -7,10 +7,9 @@
 }
 
 body {
-    background:linear-gradient(lightblue, white);
+    background:linear-gradient(lightblue, rgb(246, 198, 131));
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
     margin: 0;
 }
 
@@ -27,6 +26,8 @@ body {
     padding-top:50px;
     display: flex;
     align-items: center;
+    
+    
 }
 
 .nav-item {
@@ -40,13 +41,12 @@ body {
     position: relative;
     border-right: 1px solid black;
     padding-right: 10px;
-    height: 50px;
+    height: 90px;
 }
 
 .cart-img {
-    position: absolute;
-    top: 1px;
-    right: 7px;
+    position: relative;
+    
 }
 
 .btn {
@@ -67,7 +67,31 @@ body {
 }
 
 .btn {
-    background-color:rgb(241, 222, 186);
+    background-color:#32a1ce;
     color: black;
     font-size: 17px;
+}
+
+.food{
+   margin-left: 20px;
+}
+
+.inf{
+    border-radius: 10px 100px / 120px;
+    border: thick double #32a1ce;
+    height: 150px;
+    max-width: 700px;
+    align-items: center;
+    position: absolute;
+    top: 300px; right:250px;
+    font-size: larger;
+    
+}
+
+.sea{
+    height: 250px;
+    width: 650px;
+
+    position: absolute;
+    right: 20px; top: 545px;
 }
