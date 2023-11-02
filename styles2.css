@@ -1,0 +1,138 @@
+.background {
+width: 1440px;
+height: 800px;
+top: 379px;
+left: 806px;
+background: #0000004D;
+;
+}
+
+.project {
+width: 552px;
+height: 476px;
+top: -259px;
+left: -362px;
+border-radius: 30px;
+background-color: #FFFFFF;
+
+}
+
+.text {
+width: 235px;
+height: 40px;
+margin-top: 32px;
+margin-left: 32px;
+font-size: 28px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.text2 {
+width: 488px;
+height: 72px;
+padding-top: 20px;
+padding-left: 32px;
+
+font-family: Lab Grotesque;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:#808080;
+}
+
+.your_money {
+width: 488px;
+height: 72px;
+top: 184px;
+left: 32px;
+}
+
+.text3{
+width: 155px;
+height: 24px;
+
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.enter {
+width: 488px;
+height: 40px;
+top: 32px;
+border-radius: 3px;
+border: 1px;
+}
+
+.exexe {
+width: 76px;
+height: 24px;
+top: 264px;
+left: 32px;
+
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:#EA0029;
+}
+
+._3shit{
+width: 290px;
+height: 36px;
+top: 312px;
+left: 32px;
+border-radius: 50px;
+}
+
+.text4 {
+width: 112px;
+height: 24px;
+top: 316px;
+left: 32px;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.money {
+width: 49px;
+height: 24px;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.time {
+width: 33px;
+height: 24px;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.botton {
+width: 488px;
+height: 56px;
+top: 388px;
+left: 32px;
+padding: 16px, 0px, 16px, 0px;
+border-radius: 6px;
+gap: 10px;
+background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%),
+linear-gradient(0deg, #FF5E56, #FF5E56);
+
+}
